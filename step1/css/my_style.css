@@ -1,0 +1,22 @@
+body {
+	background-color: #eeeeee;
+	font-family: 'Oswald', sans-serif;
+	color: #000000;
+}
+
+div.photo{
+	background-color: grey;
+	border: solid #000 2px;
+	text-align: center;
+	height:280px;
+}
+
+#header{
+ 	width:100%;
+ 	border: 0px;
+ 	height:50px;
+}
+
+#main{
+	height: 500px;
+}
